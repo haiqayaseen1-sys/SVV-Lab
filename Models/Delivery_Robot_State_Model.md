@@ -9,3 +9,16 @@
 | AVOIDING_OBSTACLE | The robot is temporarily stopped from normal navigation to avoid an obstacle. |
 | DELIVERING | The robot is delivering the package at the destination. |
 | RETURNING | The robot is returning to the warehouse. |
+
+
+## Task 3 — Events and Conditions
+
+| Event/Condition | Description |
+|---|---|
+| Delivery Request Received | A new delivery request is received by the robot. |
+| Destination Reached | The robot reaches the delivery destination. |
+| Delivery Successful | The package has been successfully delivered. |
+| Warehouse Reached | The robot reaches the warehouse. |
+| Obstacle Detected | An obstacle is detected while navigating. |
+| Obstacle Avoided | The detected obstacle has been successfully avoided. |
+| Critical Battery | The battery level becomes critically low. |
